@@ -1,0 +1,704 @@
+{
+    "name": "MissionIm",
+    "shortName": "untitled",
+    "trackRef": "untitled",
+    "year": 2022,
+    "author": "Unknown",
+    "genre": "Korean Hyper Folk Emo",
+    "description": "The charter was too lazy to fill out a description. Boo the lazy charter! BOOOOO!!!",
+    "difficulty": 10,
+    "savednotespacing": 120,
+    "endpoint": 128,
+    "timesig": 2,
+    "tempo": 88,
+    "lyrics": [],
+    "UNK1": 0,
+    "notes": [
+        {
+            "notePosition": 0.0,
+            "noteLength": 0.5,
+            "startPitch": -68.75,
+            "pitchDelta": 0,
+            "pitchEnd": -68.75
+        },
+        {
+            "notePosition": 1.0,
+            "noteLength": 0.5,
+            "startPitch": -68.75,
+            "pitchDelta": 0,
+            "pitchEnd": -68.75
+        },
+        {
+            "notePosition": 2.0,
+            "noteLength": 0.5,
+            "startPitch": -27.5,
+            "pitchDelta": 0,
+            "pitchEnd": -27.5
+        },
+        {
+            "notePosition": 2.75,
+            "noteLength": 0.5,
+            "startPitch": 0.0,
+            "pitchDelta": 0,
+            "pitchEnd": 0.0
+        },
+        {
+            "notePosition": 3.5,
+            "noteLength": 0.5,
+            "startPitch": -68.75,
+            "pitchDelta": 0,
+            "pitchEnd": -68.75
+        },
+        {
+            "notePosition": 4.5,
+            "noteLength": 0.5,
+            "startPitch": -68.75,
+            "pitchDelta": 0,
+            "pitchEnd": -68.75
+        },
+        {
+            "notePosition": 5.5,
+            "noteLength": 0.5,
+            "startPitch": -96.25,
+            "pitchDelta": 0,
+            "pitchEnd": -96.25
+        },
+        {
+            "notePosition": 6.25,
+            "noteLength": 0.5,
+            "startPitch": -82.5,
+            "pitchDelta": 0,
+            "pitchEnd": -82.5
+        },
+        {
+            "notePosition": 7.0,
+            "noteLength": 0.5,
+            "startPitch": -68.75,
+            "pitchDelta": 0,
+            "pitchEnd": -68.75
+        },
+        {
+            "notePosition": 8.0,
+            "noteLength": 0.5,
+            "startPitch": -68.75,
+            "pitchDelta": 0,
+            "pitchEnd": -68.75
+        },
+        {
+            "notePosition": 9.0,
+            "noteLength": 0.5,
+            "startPitch": -27.5,
+            "pitchDelta": 0,
+            "pitchEnd": -27.5
+        },
+        {
+            "notePosition": 9.75,
+            "noteLength": 0.5,
+            "startPitch": 0.0,
+            "pitchDelta": 0,
+            "pitchEnd": 0.0
+        },
+        {
+            "notePosition": 10.5,
+            "noteLength": 0.5,
+            "startPitch": -68.75,
+            "pitchDelta": 0,
+            "pitchEnd": -68.75
+        },
+        {
+            "notePosition": 11.5,
+            "noteLength": 0.5,
+            "startPitch": -68.75,
+            "pitchDelta": 0,
+            "pitchEnd": -68.75
+        },
+        {
+            "notePosition": 12.5,
+            "noteLength": 0.5,
+            "startPitch": -96.25,
+            "pitchDelta": 0,
+            "pitchEnd": -96.25
+        },
+        {
+            "notePosition": 13.25,
+            "noteLength": 0.5,
+            "startPitch": -82.5,
+            "pitchDelta": 0,
+            "pitchEnd": -82.5
+        },
+        {
+            "notePosition": 14.25,
+            "noteLength": 0.75,
+            "startPitch": 137.5,
+            "pitchDelta": 0,
+            "pitchEnd": 137.5
+        },
+        {
+            "notePosition": 15.0,
+            "noteLength": 0.5,
+            "startPitch": 96.25,
+            "pitchDelta": 0,
+            "pitchEnd": 96.25
+        },
+        {
+            "notePosition": 15.75,
+            "noteLength": 3.0,
+            "startPitch": 27.5,
+            "pitchDelta": 0,
+            "pitchEnd": 27.5
+        },
+        {
+            "notePosition": 19.25,
+            "noteLength": 0.75,
+            "startPitch": 137.5,
+            "pitchDelta": 0,
+            "pitchEnd": 137.5
+        },
+        {
+            "notePosition": 20.0,
+            "noteLength": 0.5,
+            "startPitch": 96.25,
+            "pitchDelta": 0,
+            "pitchEnd": 96.25
+        },
+        {
+            "notePosition": 20.75,
+            "noteLength": 2.5,
+            "startPitch": 13.75,
+            "pitchDelta": 0,
+            "pitchEnd": 13.75
+        },
+        {
+            "notePosition": 23.75,
+            "noteLength": 0.75,
+            "startPitch": 137.5,
+            "pitchDelta": 0,
+            "pitchEnd": 137.5
+        },
+        {
+            "notePosition": 24.5,
+            "noteLength": 0.75,
+            "startPitch": 96.25,
+            "pitchDelta": 0,
+            "pitchEnd": 96.25
+        },
+        {
+            "notePosition": 25.5,
+            "noteLength": 2.75,
+            "startPitch": 0.0,
+            "pitchDelta": 0,
+            "pitchEnd": 0.0
+        },
+        {
+            "notePosition": 28.5,
+            "noteLength": 0.5,
+            "startPitch": -27.5,
+            "pitchDelta": 0,
+            "pitchEnd": -27.5
+        },
+        {
+            "notePosition": 29.0,
+            "noteLength": 0.75,
+            "startPitch": 0.0,
+            "pitchDelta": 0,
+            "pitchEnd": 0.0
+        },
+        {
+            "notePosition": 31.0,
+            "noteLength": 0.5,
+            "startPitch": 137.5,
+            "pitchDelta": 0,
+            "pitchEnd": 137.5
+        },
+        {
+            "notePosition": 31.5,
+            "noteLength": 0.75,
+            "startPitch": 110.0,
+            "pitchDelta": 0,
+            "pitchEnd": 110.0
+        },
+        {
+            "notePosition": 32.25,
+            "noteLength": 2.0,
+            "startPitch": 165.0,
+            "pitchDelta": 0,
+            "pitchEnd": 165.0
+        },
+        {
+            "notePosition": 34.5,
+            "noteLength": 0.5,
+            "startPitch": 137.5,
+            "pitchDelta": 0,
+            "pitchEnd": 137.5
+        },
+        {
+            "notePosition": 35.0,
+            "noteLength": 0.75,
+            "startPitch": 110.0,
+            "pitchDelta": 0,
+            "pitchEnd": 110.0
+        },
+        {
+            "notePosition": 35.75,
+            "noteLength": 2.0,
+            "startPitch": 165.0,
+            "pitchDelta": 0,
+            "pitchEnd": 165.0
+        },
+        {
+            "notePosition": 38.0,
+            "noteLength": 0.5,
+            "startPitch": 137.5,
+            "pitchDelta": 0,
+            "pitchEnd": 137.5
+        },
+        {
+            "notePosition": 38.5,
+            "noteLength": 0.75,
+            "startPitch": 110.0,
+            "pitchDelta": 0,
+            "pitchEnd": 110.0
+        },
+        {
+            "notePosition": 39.25,
+            "noteLength": 2.0,
+            "startPitch": 165.0,
+            "pitchDelta": 0,
+            "pitchEnd": 165.0
+        },
+        {
+            "notePosition": 42.5,
+            "noteLength": 0.5,
+            "startPitch": 165.0,
+            "pitchDelta": 0,
+            "pitchEnd": 165.0
+        },
+        {
+            "notePosition": 43.0,
+            "noteLength": 0.5,
+            "startPitch": 165.0,
+            "pitchDelta": 0,
+            "pitchEnd": 165.0
+        },
+        {
+            "notePosition": 45.25,
+            "noteLength": 0.5,
+            "startPitch": 41.25,
+            "pitchDelta": 0,
+            "pitchEnd": 41.25
+        },
+        {
+            "notePosition": 45.75,
+            "noteLength": 0.75,
+            "startPitch": 0.0,
+            "pitchDelta": 0,
+            "pitchEnd": 0.0
+        },
+        {
+            "notePosition": 46.75,
+            "noteLength": 2.0,
+            "startPitch": -68.75,
+            "pitchDelta": 0,
+            "pitchEnd": -68.75
+        },
+        {
+            "notePosition": 49.25,
+            "noteLength": 0.5,
+            "startPitch": 41.25,
+            "pitchDelta": 0,
+            "pitchEnd": 41.25
+        },
+        {
+            "notePosition": 49.75,
+            "noteLength": 0.75,
+            "startPitch": 0.0,
+            "pitchDelta": 0,
+            "pitchEnd": 0.0
+        },
+        {
+            "notePosition": 50.75,
+            "noteLength": 2.0,
+            "startPitch": -82.5,
+            "pitchDelta": 0,
+            "pitchEnd": -82.5
+        },
+        {
+            "notePosition": 53.25,
+            "noteLength": 0.5,
+            "startPitch": 41.25,
+            "pitchDelta": 0,
+            "pitchEnd": 41.25
+        },
+        {
+            "notePosition": 54.0,
+            "noteLength": 0.5,
+            "startPitch": 0.0,
+            "pitchDelta": 0,
+            "pitchEnd": 0.0
+        },
+        {
+            "notePosition": 54.75,
+            "noteLength": 2.0,
+            "startPitch": -96.25,
+            "pitchDelta": 0,
+            "pitchEnd": -96.25
+        },
+        {
+            "notePosition": 58.0,
+            "noteLength": 0.5,
+            "startPitch": -123.75,
+            "pitchDelta": 0,
+            "pitchEnd": -123.75
+        },
+        {
+            "notePosition": 58.5,
+            "noteLength": 0.75,
+            "startPitch": -96.25,
+            "pitchDelta": 0,
+            "pitchEnd": -96.25
+        },
+        {
+            "notePosition": 61.0,
+            "noteLength": 0.5,
+            "startPitch": -68.75,
+            "pitchDelta": 0,
+            "pitchEnd": -68.75
+        },
+        {
+            "notePosition": 62.0,
+            "noteLength": 0.5,
+            "startPitch": -68.75,
+            "pitchDelta": 0,
+            "pitchEnd": -68.75
+        },
+        {
+            "notePosition": 63.0,
+            "noteLength": 0.5,
+            "startPitch": -27.5,
+            "pitchDelta": 0,
+            "pitchEnd": -27.5
+        },
+        {
+            "notePosition": 63.75,
+            "noteLength": 0.5,
+            "startPitch": 0.0,
+            "pitchDelta": 0,
+            "pitchEnd": 0.0
+        },
+        {
+            "notePosition": 64.5,
+            "noteLength": 0.5,
+            "startPitch": -68.75,
+            "pitchDelta": 0,
+            "pitchEnd": -68.75
+        },
+        {
+            "notePosition": 65.5,
+            "noteLength": 0.5,
+            "startPitch": -68.75,
+            "pitchDelta": 0,
+            "pitchEnd": -68.75
+        },
+        {
+            "notePosition": 66.5,
+            "noteLength": 0.5,
+            "startPitch": -96.25,
+            "pitchDelta": 0,
+            "pitchEnd": -96.25
+        },
+        {
+            "notePosition": 67.25,
+            "noteLength": 0.5,
+            "startPitch": -82.5,
+            "pitchDelta": 0,
+            "pitchEnd": -82.5
+        },
+        {
+            "notePosition": 68.0,
+            "noteLength": 0.5,
+            "startPitch": -68.75,
+            "pitchDelta": 0,
+            "pitchEnd": -68.75
+        },
+        {
+            "notePosition": 69.0,
+            "noteLength": 0.5,
+            "startPitch": -68.75,
+            "pitchDelta": 0,
+            "pitchEnd": -68.75
+        },
+        {
+            "notePosition": 70.0,
+            "noteLength": 0.5,
+            "startPitch": -27.5,
+            "pitchDelta": 0,
+            "pitchEnd": -27.5
+        },
+        {
+            "notePosition": 70.75,
+            "noteLength": 0.5,
+            "startPitch": 0.0,
+            "pitchDelta": 0,
+            "pitchEnd": 0.0
+        },
+        {
+            "notePosition": 71.5,
+            "noteLength": 0.5,
+            "startPitch": -68.75,
+            "pitchDelta": 0,
+            "pitchEnd": -68.75
+        },
+        {
+            "notePosition": 72.5,
+            "noteLength": 0.5,
+            "startPitch": -68.75,
+            "pitchDelta": 0,
+            "pitchEnd": -68.75
+        },
+        {
+            "notePosition": 73.5,
+            "noteLength": 0.5,
+            "startPitch": -96.25,
+            "pitchDelta": 0,
+            "pitchEnd": -96.25
+        },
+        {
+            "notePosition": 74.25,
+            "noteLength": 0.5,
+            "startPitch": -82.5,
+            "pitchDelta": 0,
+            "pitchEnd": -82.5
+        },
+        {
+            "notePosition": 75.25,
+            "noteLength": 0.75,
+            "startPitch": 137.5,
+            "pitchDelta": 0,
+            "pitchEnd": 137.5
+        },
+        {
+            "notePosition": 76.0,
+            "noteLength": 0.5,
+            "startPitch": 96.25,
+            "pitchDelta": 0,
+            "pitchEnd": 96.25
+        },
+        {
+            "notePosition": 76.75,
+            "noteLength": 3.0,
+            "startPitch": 27.5,
+            "pitchDelta": 0,
+            "pitchEnd": 27.5
+        },
+        {
+            "notePosition": 80.25,
+            "noteLength": 0.75,
+            "startPitch": 137.5,
+            "pitchDelta": 0,
+            "pitchEnd": 137.5
+        },
+        {
+            "notePosition": 81.0,
+            "noteLength": 0.5,
+            "startPitch": 96.25,
+            "pitchDelta": 0,
+            "pitchEnd": 96.25
+        },
+        {
+            "notePosition": 81.75,
+            "noteLength": 2.5,
+            "startPitch": 13.75,
+            "pitchDelta": 0,
+            "pitchEnd": 13.75
+        },
+        {
+            "notePosition": 84.75,
+            "noteLength": 0.75,
+            "startPitch": 137.5,
+            "pitchDelta": 0,
+            "pitchEnd": 137.5
+        },
+        {
+            "notePosition": 85.5,
+            "noteLength": 0.75,
+            "startPitch": 96.25,
+            "pitchDelta": 0,
+            "pitchEnd": 96.25
+        },
+        {
+            "notePosition": 86.5,
+            "noteLength": 2.75,
+            "startPitch": 0.0,
+            "pitchDelta": 0,
+            "pitchEnd": 0.0
+        },
+        {
+            "notePosition": 89.5,
+            "noteLength": 0.5,
+            "startPitch": -27.5,
+            "pitchDelta": 0,
+            "pitchEnd": -27.5
+        },
+        {
+            "notePosition": 90.0,
+            "noteLength": 0.75,
+            "startPitch": 0.0,
+            "pitchDelta": 0,
+            "pitchEnd": 0.0
+        },
+        {
+            "notePosition": 92.0,
+            "noteLength": 0.5,
+            "startPitch": 137.5,
+            "pitchDelta": 0,
+            "pitchEnd": 137.5
+        },
+        {
+            "notePosition": 92.5,
+            "noteLength": 0.75,
+            "startPitch": 110.0,
+            "pitchDelta": 0,
+            "pitchEnd": 110.0
+        },
+        {
+            "notePosition": 93.25,
+            "noteLength": 2.0,
+            "startPitch": 165.0,
+            "pitchDelta": 0,
+            "pitchEnd": 165.0
+        },
+        {
+            "notePosition": 95.5,
+            "noteLength": 0.5,
+            "startPitch": 137.5,
+            "pitchDelta": 0,
+            "pitchEnd": 137.5
+        },
+        {
+            "notePosition": 96.0,
+            "noteLength": 0.75,
+            "startPitch": 110.0,
+            "pitchDelta": 0,
+            "pitchEnd": 110.0
+        },
+        {
+            "notePosition": 96.75,
+            "noteLength": 2.0,
+            "startPitch": 165.0,
+            "pitchDelta": 0,
+            "pitchEnd": 165.0
+        },
+        {
+            "notePosition": 99.0,
+            "noteLength": 0.5,
+            "startPitch": 137.5,
+            "pitchDelta": 0,
+            "pitchEnd": 137.5
+        },
+        {
+            "notePosition": 99.5,
+            "noteLength": 0.75,
+            "startPitch": 110.0,
+            "pitchDelta": 0,
+            "pitchEnd": 110.0
+        },
+        {
+            "notePosition": 100.25,
+            "noteLength": 2.0,
+            "startPitch": 165.0,
+            "pitchDelta": 0,
+            "pitchEnd": 165.0
+        },
+        {
+            "notePosition": 103.5,
+            "noteLength": 0.5,
+            "startPitch": 165.0,
+            "pitchDelta": 0,
+            "pitchEnd": 165.0
+        },
+        {
+            "notePosition": 104.0,
+            "noteLength": 0.5,
+            "startPitch": 165.0,
+            "pitchDelta": 0,
+            "pitchEnd": 165.0
+        },
+        {
+            "notePosition": 106.25,
+            "noteLength": 0.5,
+            "startPitch": 41.25,
+            "pitchDelta": 0,
+            "pitchEnd": 41.25
+        },
+        {
+            "notePosition": 106.75,
+            "noteLength": 0.75,
+            "startPitch": 0.0,
+            "pitchDelta": 0,
+            "pitchEnd": 0.0
+        },
+        {
+            "notePosition": 107.75,
+            "noteLength": 2.0,
+            "startPitch": -68.75,
+            "pitchDelta": 0,
+            "pitchEnd": -68.75
+        },
+        {
+            "notePosition": 110.25,
+            "noteLength": 0.5,
+            "startPitch": 41.25,
+            "pitchDelta": 0,
+            "pitchEnd": 41.25
+        },
+        {
+            "notePosition": 110.75,
+            "noteLength": 0.75,
+            "startPitch": 0.0,
+            "pitchDelta": 0,
+            "pitchEnd": 0.0
+        },
+        {
+            "notePosition": 111.75,
+            "noteLength": 2.0,
+            "startPitch": -82.5,
+            "pitchDelta": 0,
+            "pitchEnd": -82.5
+        },
+        {
+            "notePosition": 114.25,
+            "noteLength": 0.5,
+            "startPitch": 41.25,
+            "pitchDelta": 0,
+            "pitchEnd": 41.25
+        },
+        {
+            "notePosition": 115.0,
+            "noteLength": 0.5,
+            "startPitch": 0.0,
+            "pitchDelta": 0,
+            "pitchEnd": 0.0
+        },
+        {
+            "notePosition": 115.75,
+            "noteLength": 2.0,
+            "startPitch": -96.25,
+            "pitchDelta": 0,
+            "pitchEnd": -96.25
+        },
+        {
+            "notePosition": 119.0,
+            "noteLength": 0.5,
+            "startPitch": -123.75,
+            "pitchDelta": 0,
+            "pitchEnd": -123.75
+        },
+        {
+            "notePosition": 119.5,
+            "noteLength": 0.75,
+            "startPitch": -96.25,
+            "pitchDelta": 0,
+            "pitchEnd": -96.25
+        }
+    ]
+}
