@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3b815bc681c88d641b32d4b6b4d956f2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - notePrefab: {fileID: 5098229588192527325, guid: 49c4650ac60abcf4f89e82eefdbe7cc3, type: 3}
+  - notePrefab2: {fileID: 5098229588192527325, guid: 3db811b0d97c12e4387af9726539e165, type: 3}
+  - hitobject: {fileID: 2723149142238680780, guid: 5a7ed178d5a62ac4597ec3bfcddd2699, type: 3}
+  - hitobject2: {fileID: 2723149142238680780, guid: 3d14c3dd5c28ee844a7f9fb00d099247, type: 3}
+  - jsonFile: {fileID: 4900000, guid: fc29241542e11be4ca633bfac4fcfe41, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

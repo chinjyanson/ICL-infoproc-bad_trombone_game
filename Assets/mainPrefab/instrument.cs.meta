@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 809d46eadd2f59d47a2beba341ecae99
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mainaudio: {instanceID: 0}
+  - c4: {fileID: 8300000, guid: ff216af08926e4946b12ab4ead241d67, type: 3}
+  - c4s: {fileID: 8300000, guid: ff216af08926e4946b12ab4ead241d67, type: 3}
+  - d4: {fileID: 8300000, guid: 2aebb6ab9a11c0d4bb796c7ea80936cd, type: 3}
+  - d4s: {fileID: 8300000, guid: 20e6c59ea6d13644492e47b9a0dff767, type: 3}
+  - e4: {fileID: 8300000, guid: abac24d313aa3b0469041ad6f8830d51, type: 3}
+  - f4: {fileID: 8300000, guid: f1167a76233a2f849977189c2a6e0947, type: 3}
+  - f4s: {fileID: 8300000, guid: ec783e6987ba01449a1ce978511b9b1b, type: 3}
+  - g4: {fileID: 8300000, guid: 1551e62f02664f2459e6ae635d0d88ef, type: 3}
+  - g4s: {fileID: 8300000, guid: 64ffc73a5167ad4489f10d5b25de571e, type: 3}
+  - a4: {fileID: 8300000, guid: ca9aa967446c38646a82672b2896f353, type: 3}
+  - a4s: {fileID: 8300000, guid: fd03c8bc7d0929946a72c2233952aba3, type: 3}
+  - b4: {fileID: 8300000, guid: 0d8caba63bb91f940a751722afd6197c, type: 3}
+  - c5: {fileID: 8300000, guid: 59d7d2f71593af9499bd3d51dcdc5cda, type: 3}
+  - c5s: {fileID: 8300000, guid: dfb2a9fd9194cc146bad36efd44eed23, type: 3}
+  - d5: {fileID: 8300000, guid: 1a2536c51a915044ba35f9174165f1bc, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

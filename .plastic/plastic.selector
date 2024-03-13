@@ -1,0 +1,4 @@
+repository "Mygame@cddaaaa@cloud"
+  path "/"
+    smartbranch "/main" changeset "7"    
+     
