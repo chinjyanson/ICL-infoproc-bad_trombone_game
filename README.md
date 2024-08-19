@@ -41,8 +41,7 @@ The system stores music note information and user scores in AWS DynamoDB. Musica
 ## Game Design
 
 <a href="url"><img src="https://github.com/chinjyanson/ICL-infoproc-bad_trombone_game/blob/main/images/starting.png" align="left" height="250" ></a>
-![starting](https://github.com/chinjyanson/ICL-infoproc-bad_trombone_game/blob/main/images/starting.png)
-![loadingsong](https://github.com/chinjyanson/ICL-infoproc-bad_trombone_game/blob/main/images/loadingsong.png)
-![maingame](https://github.com/chinjyanson/ICL-infoproc-bad_trombone_game/blob/main/images/maingame.png)
-![finalscene](https://github.com/chinjyanson/ICL-infoproc-bad_trombone_game/blob/main/images/finalscene.jpg)
+<a href="url"><img src="https://github.com/chinjyanson/ICL-infoproc-bad_trombone_game/blob/main/images/loadingsong.png" align="left" height="250" ></a>
+<a href="url"><img src="https://github.com/chinjyanson/ICL-infoproc-bad_trombone_game/blob/main/images/maingame.png" align="left" height="250" ></a>
+<a href="url"><img src="https://github.com/chinjyanson/ICL-infoproc-bad_trombone_game/blob/main/images/finalscene.png" align="left" height="250" ></a>
 
