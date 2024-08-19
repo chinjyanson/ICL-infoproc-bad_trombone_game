@@ -31,3 +31,17 @@ The back-end system, consisting of one server hosted on the Amazon Elastic Compu
 
 # Interaction between the server with its FPGA clients
 This game uses two FPGA nodes on two different computers with local python code (fpga.py) that establish connections to the corresponding ports on the server and transmit the required information as needed. The python struct library is used to pack the data into the smallest possible size in byte format to be transmitted over TCP for lower bandwidth usage and faster transmission speed. By utilising this library, both the accelerometer value and the button press indicator value is sent in one packet instead of two to eliminate redundancy of transmitting multiple separate packets, hence increasing its efficiency. 
+
+#  Interaction between the server and Unity game client 
+Similarly, one port is used specifically for communication between the Unity clients and the central server. A single main thread is employed and binded to the port and acts as a reception of TCP requests from different players on Unity. Due to the nature of this game, which allows two players to participate simultaneously from different locations and devices, this main thread is crucial for managing concurrent communication streams. Upon successful connection to the server, each player’s Unity client is assigned a unique connection socket and a new thread will be initialised, allowing for simultaneous handling of game clients. Through this connection, individual clients then receive updates regarding their gameplay status, including button press indications, cursor movement updates and score changes during the game. After the game ends, the Unity client sockets will be closed and the server will be ready to accept new connections again for a new game.
+
+# Using the AWS DynamoDB
+The system stores music note information and user scores in AWS DynamoDB. Musical note information for the three songs are initially generated as MIDI files through a digital music editor and converted into JSON string using a python script. The JSON strings are loaded into the database at server initialisation. They are retrieved by the Unity client after song selection via TCP . After the game ends, each player’s username and score will be saved to the score database for that particular song, and the top five player’s name and scores will be retrieved and sent to the game to display the leaderboard.
+
+## Game Design
+
+![starting](https://github.com/chinjyanson/ICL-infoproc-bad_trombone_game/blob/main/images/starting.png | width=100 )
+![sysarch](https://github.com/chinjyanson/ICL-infoproc-bad_trombone_game/blob/main/images/sysarch.jpg)
+![sysarch](https://github.com/chinjyanson/ICL-infoproc-bad_trombone_game/blob/main/images/sysarch.jpg)
+![sysarch](https://github.com/chinjyanson/ICL-infoproc-bad_trombone_game/blob/main/images/sysarch.jpg)
+
