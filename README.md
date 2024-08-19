@@ -9,7 +9,7 @@ Bad Trombone is a two player music rhythm game where players use FPGA to control
 
 ### System Architecture:
 
-![sysarch](https://github.com/chinjyanson/ICL-infoproc-bad_trombone_game/images/sysarch.jpg?raw=true)
+![sysarch]([https://github.com/chinjyanson/ICL-infoproc-bad_trombone_game/images/sysarch.jpg?raw=true](https://github.com/chinjyanson/ICL-infoproc-bad_trombone_game/blob/main/images/sysarch.jpg))
 
 Above is an overall flowchart of the performance view and a diagram for the system design architecture of Bad Trombone, which can be broken down into the following 3 contributing sections:
 FPGA controller
