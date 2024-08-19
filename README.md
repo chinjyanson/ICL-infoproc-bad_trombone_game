@@ -45,6 +45,7 @@ The system stores music note information and user scores in AWS DynamoDB. Musica
 <a href="url"><img src="https://github.com/chinjyanson/ICL-infoproc-bad_trombone_game/blob/main/images/maingame.png" align="left" height="250" ></a>
 <a href="url"><img src="https://github.com/chinjyanson/ICL-infoproc-bad_trombone_game/blob/main/images/finalscene.png" align="left" height="250" ></a>
 
+## Game Description
 The Starting Screen consists of a player prompt and a start button. Through a TCP connection, the entered player_name will be sent to the server and the server will return a player number to the game client. Whoever is the first to send the player name to the server will be named player 1 and remain that way until the game ends.
 
 The game then changes scenes using the Unity View Manager to go to the Loading Song Scene. This scene includes a button to choose the song, a text display and a Ready text. The middle display text will change to inform the player of the other player’s song choice to facilitate communication between the players as they have to agree on the same song. The players will then have to indicate that they are ready to proceed by holding down the button on their FPGA controllers, and the Ready text will turn green to show when each player is ready.
